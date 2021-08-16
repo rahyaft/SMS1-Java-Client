@@ -1,2 +1,2 @@
-# SMS1-Java-Client
+# SMS1 Java Client
 Sample Rest Client in Java
